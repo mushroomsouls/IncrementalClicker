@@ -1,37 +1,34 @@
 fileFormatVersion: 2
-guid: ea93d6ab60fff04468630ebe3a23dee9
+guid: 64d90b94df6c3094eb37ba9f3eb76443
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7693589897141832557
-    second: Eirika Spritesheet_0
+      213: -6780695064544711685
+    second: Binding Blade Spritesheet_0
   - first:
-      213: 7471022100732540249
-    second: Eirika Spritesheet_1
+      213: -3018064345030217590
+    second: Binding Blade Spritesheet_1
   - first:
-      213: -6142164842668650748
-    second: Eirika Spritesheet_2
+      213: -5410123407292016776
+    second: Binding Blade Spritesheet_2
   - first:
-      213: -4103268817563746402
-    second: Eirika Spritesheet_3
+      213: 8007585323697587859
+    second: Binding Blade Spritesheet_3
   - first:
-      213: 1379041001336970273
-    second: Eirika Spritesheet_4
+      213: -2830255454424027367
+    second: Binding Blade Spritesheet_4
   - first:
-      213: -7485348529289925173
-    second: Eirika Spritesheet_5
+      213: 4233175727610355378
+    second: Binding Blade Spritesheet_5
   - first:
-      213: 2546068900819125834
-    second: Eirika Spritesheet_6
+      213: 3472139802525402496
+    second: Binding Blade Spritesheet_6
   - first:
-      213: -4999881328752375959
-    second: Eirika Spritesheet_7
+      213: -2307778128543912996
+    second: Binding Blade Spritesheet_7
   - first:
-      213: 5186488044340576734
-    second: Eirika Spritesheet_8
-  - first:
-      213: -6418137786230845931
-    second: Eirika Spritesheet_9
+      213: -2094609016957431159
+    second: Binding Blade Spritesheet_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -95,7 +92,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -107,7 +104,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 4096
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -121,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Eirika Spritesheet_0
+      name: Binding Blade Spritesheet_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 388
-        width: 36
-        height: 34
+        x: 227
+        y: 4409
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -135,197 +132,176 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 394b35d30c0ea3590800000000000000
-      internalID: -7693589897141832557
+      spriteID: bfb6193b3c126e1a0800000000000000
+      internalID: -6780695064544711685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eirika Spritesheet_1
+      name: Binding Blade Spritesheet_1
       rect:
         serializedVersion: 2
-        x: 44
-        y: 388
-        width: 29
-        height: 40
+        x: 227
+        y: 4376
+        width: 15
+        height: 16
       alignment: 9
-      pivot: {x: 0.37931034, y: 0.425}
+      pivot: {x: 0.4666667, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 955714774076ea760800000000000000
-      internalID: 7471022100732540249
+      spriteID: a80b335f77ead16d0800000000000000
+      internalID: -3018064345030217590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eirika Spritesheet_2
+      name: Binding Blade Spritesheet_2
       rect:
         serializedVersion: 2
-        x: 82
-        y: 388
-        width: 28
-        height: 41
-      alignment: 9
-      pivot: {x: 0.35714287, y: 0.41463414}
+        x: 227
+        y: 4343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40f87d04e95a2caa0800000000000000
-      internalID: -6142164842668650748
+      spriteID: 8775555dc616be4b0800000000000000
+      internalID: -5410123407292016776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eirika Spritesheet_3
+      name: Binding Blade Spritesheet_3
       rect:
         serializedVersion: 2
-        x: 118
-        y: 388
-        width: 28
-        height: 31
+        x: 228
+        y: 1882
+        width: 15
+        height: 19
       alignment: 9
-      pivot: {x: 0.4642857, y: 0.5483871}
+      pivot: {x: 0.4666667, y: 0.47368422}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9ffc2f10c24e07c0800000000000000
-      internalID: -4103268817563746402
+      spriteID: 39640a70d68a02f60800000000000000
+      internalID: 8007585323697587859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eirika Spritesheet_4
+      name: Binding Blade Spritesheet_4
       rect:
         serializedVersion: 2
-        x: 154
-        y: 388
-        width: 29
-        height: 31
+        x: 228
+        y: 1849
+        width: 15
+        height: 20
       alignment: 9
-      pivot: {x: 0.55172414, y: 0.54838705}
+      pivot: {x: 0.4666667, y: 0.45000002}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12c9367fb76532310800000000000000
-      internalID: 1379041001336970273
+      spriteID: 91fa177d8a9e8b8d0800000000000000
+      internalID: -2830255454424027367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eirika Spritesheet_5
+      name: Binding Blade Spritesheet_5
       rect:
         serializedVersion: 2
-        x: 191
-        y: 387
-        width: 48
-        height: 28
+        x: 227
+        y: 1816
+        width: 16
+        height: 21
       alignment: 9
-      pivot: {x: 0.8958334, y: 0.6428572}
+      pivot: {x: 0.5, y: 0.42857143}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcd6ea3fb23be1890800000000000000
-      internalID: -7485348529289925173
+      spriteID: 2be550c55e24fba30800000000000000
+      internalID: 4233175727610355378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eirika Spritesheet_6
+      name: Binding Blade Spritesheet_6
       rect:
         serializedVersion: 2
-        x: 247
-        y: 388
-        width: 48
-        height: 27
+        x: 227
+        y: 2813
+        width: 15
+        height: 15
       alignment: 9
-      pivot: {x: 0.8958333, y: 0.6296296}
+      pivot: {x: 0.4666667, y: 0.4666667}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a464ef6fc24755320800000000000000
-      internalID: 2546068900819125834
+      spriteID: 085850411c48f2030800000000000000
+      internalID: 3472139802525402496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eirika Spritesheet_7
+      name: Binding Blade Spritesheet_7
       rect:
         serializedVersion: 2
-        x: 301
-        y: 388
-        width: 53
-        height: 28
+        x: 228
+        y: 2780
+        width: 14
+        height: 15
       alignment: 9
-      pivot: {x: 0.9056604, y: 0.60714287}
+      pivot: {x: 0.42857146, y: 0.4666667}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9674b980c6adc9ab0800000000000000
-      internalID: -4999881328752375959
+      spriteID: cdb69bbe40029ffd0800000000000000
+      internalID: -2307778128543912996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eirika Spritesheet_8
+      name: Binding Blade Spritesheet_8
       rect:
         serializedVersion: 2
-        x: 361
-        y: 388
-        width: 33
-        height: 34
+        x: 228
+        y: 2747
+        width: 14
+        height: 15
       alignment: 9
-      pivot: {x: 0.6969697, y: 0.5}
+      pivot: {x: 0.5, y: 0.4666667}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed10bbaa56b1af740800000000000000
-      internalID: 5186488044340576734
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Eirika Spritesheet_9
-      rect:
-        serializedVersion: 2
-        x: 403
-        y: 388
-        width: 24
-        height: 40
-      alignment: 9
-      pivot: {x: 0.625, y: 0.425}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51ec23c20b13ee6a0800000000000000
-      internalID: -6418137786230845931
+      spriteID: 9821ce062347ee2e0800000000000000
+      internalID: -2094609016957431159
       vertices: []
       indices: 
       edges: []

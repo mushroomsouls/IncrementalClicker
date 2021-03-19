@@ -35,6 +35,10 @@ public class ClickerScript : MonoBehaviour
         // Updates the gold text to show much gold the player has.
         goldText.text = "G: " + (int)goldAmount;
 
+        // Rounds down the Gold Per Sec to one decimal point.
+        goldUpgradeIncrease = Mathf.Round(goldUpgradeIncrease * 10.0f) * 0.1f;
+        
+        // Updates everytime a character is purchased, and shows how much gold the player is getting each second.
         goldPerSecond.text = "Gold Per Sec: " + goldUpgradeIncrease;
 
         // Updates the button's text whenever the cost is updated during the switch function...

@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 6f85cd7b6e5631149beebb606d8e3f90
+guid: f16c019fde9902f4a9be2af60a0ae729
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7849343664254467472
-    second: imageonline-co-transparentimage (1)_0
-  - first:
-      213: -4964064091999818063
-    second: Brigand Spritesheet_0
-  - first:
-      213: 6992732383112327549
-    second: Brigand Spritesheet_1
-  - first:
-      213: -9039289685222951194
-    second: Brigand Spritesheet_2
+      213: 900804062670646334
+    second: Game Boy Advance - Fire Emblem The Blazing Blade - Battle Backgrounds_0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -103,85 +94,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: imageonline-co-transparentimage (1)_0
+      name: Game Boy Advance - Fire Emblem The Blazing Blade - Battle Backgrounds_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 388
-        width: 36
-        height: 33
+        x: 2
+        y: 1230
+        width: 240
+        height: 160
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07246246687811390800000000000000
-      internalID: -7849343664254467472
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brigand Spritesheet_0
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 195
-        width: 16
-        height: 17
-      alignment: 9
-      pivot: {x: 0.5, y: 0.47058824}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1be2412520a1c1bb0800000000000000
-      internalID: -4964064091999818063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brigand Spritesheet_1
-      rect:
-        serializedVersion: 2
-        x: 23
-        y: 195
-        width: 16
-        height: 16
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d71f7c8ad0d2b0160800000000000000
-      internalID: 6992732383112327549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Brigand Spritesheet_2
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 195
-        width: 16
-        height: 18
-      alignment: 9
-      pivot: {x: 0.5, y: 0.44444445}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e6fe6a6cedfd8280800000000000000
-      internalID: -9039289685222951194
+      spriteID: e3c66b7b58c408c00800000000000000
+      internalID: 900804062670646334
       vertices: []
       indices: 
       edges: []

@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: e42f5fb3e516fd74285330fbdfd44891
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7849343664254467472
+    second: imageonline-co-transparentimage (1)_0
+  - first:
+      213: -4926388337871827960
+    second: imageonline-co-transparentimage (1)_1
+  - first:
+      213: -8965388838006811498
+    second: imageonline-co-transparentimage (1)_2
+  - first:
+      213: -4460025279160448533
+    second: imageonline-co-transparentimage (1)_3
+  - first:
+      213: -2357545902666693087
+    second: imageonline-co-transparentimage (1)_4
+  - first:
+      213: 4008948771337714829
+    second: imageonline-co-transparentimage (1)_5
+  - first:
+      213: -1723014773000964323
+    second: imageonline-co-transparentimage (1)_6
+  - first:
+      213: -4048637168510876115
+    second: imageonline-co-transparentimage (1)_7
+  - first:
+      213: -2097472334918943604
+    second: imageonline-co-transparentimage (1)_8
+  - first:
+      213: 8140311771265254279
+    second: imageonline-co-transparentimage (1)_9
+  - first:
+      213: 5795072339250611749
+    second: imageonline-co-transparentimage (1)_10
+  - first:
+      213: -5996462404439234504
+    second: imageonline-co-transparentimage (1)_11
+  - first:
+      213: 5260340340314074094
+    second: imageonline-co-transparentimage (1)_12
+  - first:
+      213: 6643470549598578225
+    second: imageonline-co-transparentimage (1)_13
+  - first:
+      213: -2565715863311489600
+    second: imageonline-co-transparentimage (1)_14
+  - first:
+      213: 2859861364562482260
+    second: imageonline-co-transparentimage (1)_15
+  - first:
+      213: -5066979187597283156
+    second: imageonline-co-transparentimage (1)_16
+  - first:
+      213: -2542080016572434870
+    second: imageonline-co-transparentimage (1)_17
+  - first:
+      213: -6537551411939783088
+    second: imageonline-co-transparentimage (1)_18
+  - first:
+      213: -1923126963672170263
+    second: imageonline-co-transparentimage (1)_19
+  - first:
+      213: -1604192166540710207
+    second: imageonline-co-transparentimage (1)_20
+  - first:
+      213: -3627469214796542593
+    second: imageonline-co-transparentimage (1)_21
+  - first:
+      213: 1835023916006733257
+    second: imageonline-co-transparentimage (1)_22
+  - first:
+      213: -4185670027569097460
+    second: imageonline-co-transparentimage (1)_23
+  - first:
+      213: 6863236783778788774
+    second: imageonline-co-transparentimage (1)_24
+  - first:
+      213: -3053799049844813492
+    second: imageonline-co-transparentimage (1)_25
+  - first:
+      213: -6422983665613775163
+    second: imageonline-co-transparentimage (1)_26
+  - first:
+      213: 6158014884501304721
+    second: imageonline-co-transparentimage (1)_27
+  - first:
+      213: -1700315560199133751
+    second: imageonline-co-transparentimage (1)_28
+  - first:
+      213: -5892110816289102162
+    second: imageonline-co-transparentimage (1)_29
+  - first:
+      213: -1426845807888902490
+    second: imageonline-co-transparentimage (1)_30
+  - first:
+      213: 1095172093869556564
+    second: imageonline-co-transparentimage (1)_31
+  - first:
+      213: -2108243918448632049
+    second: Fire Spell Spritesheet_0
+  - first:
+      213: 6972946050285225074
+    second: Fire Spell Spritesheet_1
+  - first:
+      213: -3351420792046998382
+    second: Fire Spell Spritesheet_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 936
+        width: 62
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07246246687811390800000000000000
+      internalID: -7849343664254467472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 936
+        width: 62
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cc58768e3f1abb0800000000000000
+      internalID: -4926388337871827960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_2
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 936
+        width: 62
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6941a5d3a5a849380800000000000000
+      internalID: -8965388838006811498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 936
+        width: 62
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9016a83aeca12c0800000000000000
+      internalID: -4460025279160448533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 774
+        width: 62
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11320755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126cfd90e70584fd0800000000000000
+      internalID: -2357545902666693087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 774
+        width: 68
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cb25ecaa5a2a730800000000000000
+      internalID: 4008948771337714829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_6
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 775
+        width: 66
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17f680613f9618e0800000000000000
+      internalID: -1723014773000964323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_7
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 779
+        width: 66
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09836066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26477222f950d7c0800000000000000
+      internalID: -4048637168510876115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 616
+        width: 70
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c72f6360844e2e0800000000000000
+      internalID: -2097472334918943604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_9
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 640
+        width: 68
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: -0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783423f3d6238f070800000000000000
+      internalID: 8140311771265254279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_10
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 660
+        width: 72
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: -1.6190476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52689b4c69b3c6050800000000000000
+      internalID: 5795072339250611749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_11
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 670
+        width: 72
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: -4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8382a6ab63948cca0800000000000000
+      internalID: -5996462404439234504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 460
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 3.45, y: 1.1428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebe3164bab700940800000000000000
+      internalID: 5260340340314074094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 454
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 2.1111112, y: 0.8684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a7982449523c50800000000000000
+      internalID: 6643470549598578225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_14
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 448
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 1.5769231, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ebbc140fb46cd0800000000000000
+      internalID: -2565715863311489600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_15
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 443
+        width: 62
+        height: 61
+      alignment: 9
+      pivot: {x: 1.4032258, y: 0.73770493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4545c9542c440b720800000000000000
+      internalID: 2859861364562482260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 278
+        width: 67
+        height: 66
+      alignment: 9
+      pivot: {x: 1.3134328, y: 0.7121212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca077fe56497ea9b0800000000000000
+      internalID: -5066979187597283156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 275
+        width: 72
+        height: 71
+      alignment: 9
+      pivot: {x: 1.2638888, y: 0.70422536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46b49581b7b8bcd0800000000000000
+      internalID: -2542080016572434870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_18
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 273
+        width: 79
+        height: 74
+      alignment: 9
+      pivot: {x: 1.2151898, y: 0.7027027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ec976d0a3f545a0800000000000000
+      internalID: -6537551411939783088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_19
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 270
+        width: 85
+        height: 79
+      alignment: 9
+      pivot: {x: 1.1764706, y: 0.6962025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e04858373eaf45e0800000000000000
+      internalID: -1923126963672170263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 108
+        width: 85
+        height: 79
+      alignment: 9
+      pivot: {x: 1.1764706, y: 0.6962026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce60e159b3ccb9e0800000000000000
+      internalID: -1604192166540710207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 107
+        width: 86
+        height: 80
+      alignment: 9
+      pivot: {x: 1.1627907, y: 0.7125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d0362e7f3a8adc0800000000000000
+      internalID: -3627469214796542593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_22
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 107
+        width: 84
+        height: 80
+      alignment: 9
+      pivot: {x: 1.2023809, y: 0.7125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c57deb7780577910800000000000000
+      internalID: 1835023916006733257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 107
+        width: 83
+        height: 78
+      alignment: 9
+      pivot: {x: 1.2168674, y: 0.7307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c059ebb594389e5c0800000000000000
+      internalID: -4185670027569097460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 46
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.53333336, y: -2.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5778aed7d1f3f50800000000000000
+      internalID: 6863236783778788774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 29
+        height: 19
+      alignment: 9
+      pivot: {x: 0.51724136, y: -2.1052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c411392a1f9be95d0800000000000000
+      internalID: -3053799049844813492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 44
+        width: 29
+        height: 19
+      alignment: 9
+      pivot: {x: 0.82758623, y: -1.7894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce54f4f26afcd6a0800000000000000
+      internalID: -6422983665613775163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 44
+        width: 29
+        height: 19
+      alignment: 9
+      pivot: {x: 1.137931, y: -1.4736842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195b44039e9a57550800000000000000
+      internalID: 6158014884501304721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: -1.0967742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5e244b1044768e0800000000000000
+      internalID: -1700315560199133751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 6
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.53333336, y: -1.1333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6e9d92e640b3ea0800000000000000
+      internalID: -5892110816289102162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 7
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4827586, y: -1.1333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6d6872c43d23ce0800000000000000
+      internalID: -1426845807888902490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imageonline-co-transparentimage (1)_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 8
+        width: 26
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: -1.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45304078735d23f00800000000000000
+      internalID: 1095172093869556564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Spell Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 29
+        height: 19
+      alignment: 9
+      pivot: {x: 0.51724136, y: -2.1052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fddfc73530eb2e0800000000000000
+      internalID: -2108243918448632049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Spell Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 29
+        height: 19
+      alignment: 9
+      pivot: {x: 0.51724136, y: -2.1052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274c63d0d71e4c060800000000000000
+      internalID: 6972946050285225074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Spell Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 58
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c2e25db8c5d71d0800000000000000
+      internalID: -3351420792046998382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
